@@ -1,6 +1,6 @@
 # Notes App
 
-| **Status** <img width="100" height="1"> | : | Maintenace |
+| **Status** <img width="100" height="1"> | : | Maintenance |
 | :--- | :---: | :--- |
 | **Creation Date** | : | July - August 2024 |
 | **Tech Stack** | : | • **Language**: HTML, CSS, PHP<br>• **Framework**: Bootstrap<br>• **Tools**: VS Code |
